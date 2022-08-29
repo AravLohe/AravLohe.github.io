@@ -1,0 +1,37 @@
+<html>
+  <body>
+    <p>Journal J1006</p>
+    <p>Author: Arav Lohe</p>
+    
+    <p>1.1:
+    It is communicating what you commited and when. The git log and commit both showed what you said as that is important info. 
+    
+    <br /> 2.1:
+    Yes, that way people can work on the same project without confusing the files with each other due to a logical system.
+
+    <br /> 3.1:
+    Because its the most important directory as it leads to every other directory.
+
+    <br /> 4.1:
+    It helps know what directory we are in.
+
+    <br />5.1:
+    Down arrow goes to most recent command and up goes further back.
+
+    <br />6.1:
+    A file was created with the contents of the echo.
+
+    <br />7.1:
+    Ls says the directories below your current directory. One is used to go down while other is to go up.
+
+    <br />8.1:
+    It stops the command line prompt, and the cursor goes away.
+
+    <br />9.1:
+    It is stored but the job isnt being done.
+
+    <br />10.1:
+    Jobs are being run as it says running.
+    </p>                                                                                                                                                   
+  </body>
+</html>     
