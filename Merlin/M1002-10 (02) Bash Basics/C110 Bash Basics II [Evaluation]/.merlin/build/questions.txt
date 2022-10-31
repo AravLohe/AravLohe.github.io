@@ -1,0 +1,35 @@
+================================================================================
+1. What command can be used to view a directory hierarchy?
+------------------------------------------------------------
+	A.  pwd
+	B.  shrb
+	C.  tree
+	D.  ls
+
+================================================================================
+2. The client-server model is antiquated and is no longer commonly used.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+3. The command to change to a new directory temporarily is:
+------------------------------------------------------------
+	A.  popd
+	B.  pushd
+	C.  cd
+	D.  cwd
+
+================================================================================
+4. A client-server model is a means of distributing resources between the provider of a service and a consumer of that service, the client.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+5. What symbol is used to represent the user's home directory?
+------------------------------------------------------------
+	A.  / (a slash or forward slash)
+	B.  ~ (a tilde)
+	C.  \ ( a backslash)
+	D.  $ (a dollar sign)

@@ -1,0 +1,20 @@
+ 11. Convert 465 247 from OCTAL to DECIMAL
+ 12. Convert 367 201 from OCTAL to DECIMAL
+ 13. Convert 333 052 from OCTAL to DECIMAL
+ 14. Convert 276 230 from OCTAL to DECIMAL
+ 15. Convert 423 032 from OCTAL to DECIMAL
+ 16. Convert 641 071 from OCTAL to DECIMAL
+ 17. Convert 612 135 from OCTAL to DECIMAL
+ 18. Convert 025 171 from OCTAL to DECIMAL
+ 19. Convert 540 174 from OCTAL to DECIMAL
+ 20. Convert 051 704 from OCTAL to DECIMAL
+ 21. Convert 4e 1c 7d from HEXADECIMAL to DECIMAL
+ 22. Convert 8a 82 48 from HEXADECIMAL to DECIMAL
+ 23. Convert cb e3 69 from HEXADECIMAL to DECIMAL
+ 24. Convert f0 41 f8 from HEXADECIMAL to DECIMAL
+ 25. Convert c9 e1 45 from HEXADECIMAL to DECIMAL
+ 26. Convert 08 28 e1 from HEXADECIMAL to DECIMAL
+ 27. Convert 5a b8 64 from HEXADECIMAL to DECIMAL
+ 28. Convert 1b 14 9b from HEXADECIMAL to DECIMAL
+ 29. Convert 65 6c 65 from HEXADECIMAL to DECIMAL
+ 30. Convert 2b 65 ea from HEXADECIMAL to DECIMAL

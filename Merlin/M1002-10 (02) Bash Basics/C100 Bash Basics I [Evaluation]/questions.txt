@@ -1,0 +1,35 @@
+================================================================================
+1. A client-server model is a means of distributing resources between the provider of a service and a consumer of that service, the client.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. The command to echo text to the screen is:
+------------------------------------------------------------
+	A.  display
+	B.  write
+	C.  print
+	D.  echo
+
+================================================================================
+3. The command to change to a new directory is:
+------------------------------------------------------------
+	A.  cd
+	B.  chdir
+	C.  cwd
+	D.  pwd
+
+================================================================================
+4. Unix integrates all files into a single directory structure.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+5. The command to change to a new directory temporarily is:
+------------------------------------------------------------
+	A.  popd
+	B.  cwd
+	C.  pushd
+	D.  cd

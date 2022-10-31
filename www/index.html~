@@ -1,0 +1,10 @@
+<html>
+  <h1>Digital Portfolio<h1/>
+    <a href="Digital-Portfolio/CS-I/journalLink.html"><h2>Advanced Computer Science I</h2></a>
+    <body>
+      <p> Hi my name is Arav Lohe. I am excited for my first experience with coding and my goal is to be better than I started. </p>
+    </body>
+      <head>
+	<link rel="stylesheet" href="cite.css">
+      </head>
+<html>

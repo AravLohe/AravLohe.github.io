@@ -1,0 +1,8 @@
+[credential]
+	helper = store --file ~/.git-credentials
+	useHttpPath = true
+[push]
+	default = matching
+[user]
+	email = arav.lohe@student.allenisd.org
+	name = Arav Lohe

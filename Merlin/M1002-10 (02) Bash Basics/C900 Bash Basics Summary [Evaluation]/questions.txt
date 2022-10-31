@@ -1,0 +1,107 @@
+================================================================================
+1. The client-server model is typically only effective over short distances.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. The command to echo text to the screen is:
+------------------------------------------------------------
+	A.  print
+	B.  write
+	C.  display
+	D.  echo
+
+================================================================================
+3. Unix integrates all files into a single directory structure.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+4. A directory provides a logical grouping of related files and potentially other directories.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+5. A client-server model is a means of distributing resources between the provider of a service and a consumer of that service, the client.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+6. What command can be used to clear the screen?
+------------------------------------------------------------
+	A.  clr
+	B.  cs
+	C.  clrscr
+	D.  clear
+
+================================================================================
+7. The command to create a new file (or update the timestamp on a file which already exists) is:
+------------------------------------------------------------
+	A.  mkfile
+	B.  touch
+	C.  create
+	D.  upfile
+
+================================================================================
+8. Which of the following commands will append text to an existing file?
+------------------------------------------------------------
+	A.  echo "Hello, again!" << out.txt
+	B.  echo "Hello, again!" >> out.txt
+	C.  echo "Hello, again!" > out.txt
+	D.  echo "Hello, again!" < out.txt
+
+================================================================================
+9. Redirection may be used to direct standard output to a file.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+10. What symbol is used to represent the user's home directory?
+------------------------------------------------------------
+	A.  / (a slash or forward slash)
+	B.  ~ (a tilde)
+	C.  \ ( a backslash)
+	D.  $ (a dollar sign)
+
+================================================================================
+11. The term used to describe the user interface which provides access to an operating system's services is:
+------------------------------------------------------------
+	A.  ALU
+	B.  shell
+	C.  bus
+	D.  CPU
+
+================================================================================
+12. The command to change to a new directory is:
+------------------------------------------------------------
+	A.  pwd
+	B.  chdir
+	C.  cd
+	D.  cwd
+
+================================================================================
+13. What command, by default, can be used to remove an empty directory?
+------------------------------------------------------------
+	A.  rm
+	B.  rd
+	C.  remove
+	D.  rmdir
+
+================================================================================
+14. A process is a program that is being executed by the operating system.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+15. The command used to create a new directory is:
+------------------------------------------------------------
+	A.  cwd
+	B.  createdir
+	C.  cd
+	D.  mkdir
